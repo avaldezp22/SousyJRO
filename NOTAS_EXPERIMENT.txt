@@ -1,0 +1,20 @@
+########################################
+#######FIGURA DE RUIDO##################
+########################################
+
+DATA utilizada correspondiente al dia Lunes 05 de Agosto
+Directorio: /media/soporte/DATA1/DATA/4MHZ/ch000/
+
+TIEMPO DE DATOS: 
+INICIO: 2019/08/05   16:52:00 PM
+FIN   ; 2019/08/06   07:52:00 Am
+
+Frecuencia: 100.0e6-46502476.74435377
+
+Frecuencia: 53497523.25564623
+Sample_rate: 4Mhz
+IPP= 937.5Km = 6.25 mseg.
+Ganancia del Fe= 64dB
+Atenuación Canald e Rx = 7 dB
+
+
