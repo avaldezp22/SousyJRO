@@ -20,10 +20,9 @@ Atenuación Canal de Rx = 7 dB
 Programa de Adquisicion empleado para la adquisicion
 durante la noche es:
 
-* home/soporte/GNURADIO_PROG/sousy_usrp.py
-* Programa que utiliza la version antigua llamada digital_rf_hdf5.py
-* Se lee con la unidad de Lectura jroIO_usrp.py
-
+* /home/soporte/HaystackOP/thor.py
+* Programa que utiliza la version actual de digital_rf
+* Se lee con la unidad de Lectura jroIO_digitalRF.py
 
 ########################################
 #######FIGURA DE RUIDO##################
@@ -49,9 +48,9 @@ Atenuación Canal de Rx = 7 dB
 Programa de Adquisicion empleado para la adquisicion
 durante la noche es:
 
-* /home/soporte/HaystackOP/thor.py
+* home/soporte/GNURADIO_PROG/sousy_usrp.py
 * Programa que utiliza la version antigua llamada digital_rf_hdf5.py
-* Se lee con la unidad de Lectura jroIO_digitalRF.py
+* Se lee con la unidad de Lectura jroIO_usrp.py
 
 
 ##########################################
@@ -105,6 +104,34 @@ durante la noche es:
 * /home/soporte/HaystackOP/thor.py
 * Programa que utiliza la version actual de digital_rf
 * Se lee con la unidad de Lectura jroIO_digitalRF.py
+
+
+##########################################
+######DATOS DE CAMPAÑA####################
+##########################################
+
+DATA  correspondiente al dia:
+Miercoles 07 de Agosto
+************************************************
+Directorio: /media/soporte/DATA1/07_0753_1735_SOUSY/ch0
+************************************************
+TIEMPO DE DATOS:
+INICIO: 2019/08/07   07:53:00 AM
+FIN   : 2019/08/07   17:35:00 PM
+Frecuencia: 53247523.25564623
+tamaño: 16 Mb
+Sample_rate: 4Mhz
+IPP= 1500Km =10 mseg
+Ganancia del Fe= 64dB
+Atenuación Canal de Rx = 7 dB
+
+Programa de Adquisicion empleado para la adquisicion
+durante la noche es:
+
+* /home/soporte/HaystackOP/thor.py
+* Programa que utiliza la version actual de digital_rf
+* Se lee con la unidad de Lectura jroIO_digitalRF.py
+
 
 
 
